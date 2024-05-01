@@ -1,2 +1,0 @@
-import datetime
-datetime.datetime(2012, 1, 1, 0, 0).strftime("%d-%m-%Y")
